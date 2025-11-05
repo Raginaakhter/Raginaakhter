@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ragina Akter
 #### I am a Frontend Developer
-![I am a Frontend Developer]
+
 
 And I am a Frontend Developer specializing in I am a skilled web developer proficient in Next.js, React.js, JavaScript, CSS, Tailwind CSS, Bootstrap, and HTML. I have experience in every stage of web development and love creating user-friendly web applications. Additionally, I can build dynamic Frontend websites., Tailwind, and smooth UI animations.
 
