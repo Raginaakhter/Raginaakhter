@@ -15,7 +15,7 @@
 
 Passionate **Frontend Developer** specializing in building responsive, accessible, and high-performance web applications. I focus on clean code, smooth UI/UX animations, and scalable front-end architecture.
 
-- 🔭 **Currently Building:** SAGA OF AGES
+- 🔭 **Currently Building:** Startech , sija World 
 - 🌱 **Leveling Up In:** Advanced TypeScript & Redux Toolkit
 - 🌐 **Available For:** Remote Roles, Contracts & Open-Source Collaboration
 - 💬 **Ask Me About:** Next.js, React, Responsive Design & Modern UI Libraries
