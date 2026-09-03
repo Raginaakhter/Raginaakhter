@@ -1,31 +1,60 @@
-### Hi there 👋, I am Ragina Akter
-#### I am a Frontend Developer
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Ragina+Akter+👋;Frontend+Developer;Next.js+%7C+React.js+%7C+TypeScript;Open+for+Remote+Opportunities!+🚀" alt="Typing SVG" />
+</div>
 
-
-And I am a Frontend Developer specializing in I am a skilled web developer proficient in Next.js, React.js, JavaScript, CSS, Tailwind CSS, Bootstrap, and HTML. I have experience in every stage of web development and love creating user-friendly web applications. Additionally, I can build dynamic Frontend websites., Tailwind, and smooth UI animations.
-
-Skills:  NEXTJS/ REACT / JS/REDUX/TYPESCRIPT/TAILWINGCSS/BOOTSTRIPT / HTML / CSS
-
-- 🔭 I’m currently working on SAGA OF AGES project 
-- 🌱 I’m currently learning Typescript and Redux 
-- 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with gide me more to learn new technology 
-- 💬 Ask me about Web developer 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/reginaakhter?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reginaakhter?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/razina.akter.213552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/razina.akter.213552" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/raginaakhter/profilecard/?igsh=mwmwaxf3znvxehkyzw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raginaakhter/profilecard/?igsh=mwmwaxf3znvxehkyzw==" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/reginaakhter"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://facebook.com/razina.akter.213552"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/raginaakhter"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raginaakhter&show_icons=true&locale=en&layout=compact" alt="raginaakhter" /></p>
+### 💫 About Me
 
-Support 🙏
+Passionate **Frontend Developer** specializing in building responsive, accessible, and high-performance web applications. I focus on clean code, smooth UI/UX animations, and scalable front-end architecture.
 
+- 🔭 **Currently Building:** SAGA OF AGES
+- 🌱 **Leveling Up In:** Advanced TypeScript & Redux Toolkit
+- 🌐 **Available For:** Remote Roles, Contracts & Open-Source Collaboration
+- 💬 **Ask Me About:** Next.js, React, Responsive Design & Modern UI Libraries
+- ⚡ **Fun Fact:** I love turning complex Figma designs into pixel-perfect, interactive code.
 
+---
 
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Core Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,redux" /><br><br>
+  <!-- Backend, DB & Tools -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,figma,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raginaakhter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raginaakhter&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raginaakhter&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://svg-banners.terminal.sexy/raginaakhter/snake.svg" alt="GitHub Contribution Snake" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=raginaakhter&theme=tokyo-night&hide_border=true'" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ Open to full-time remote engineering roles worldwide. Let's build something impactful together!</i>
+</p>
